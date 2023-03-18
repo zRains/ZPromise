@@ -1,0 +1,19 @@
+{
+  "name": "z",
+  "version": "1.0.0",
+  "description": "ZPromise is a lightweight Promises library that supports A+ Promises.",
+  "main": "index.js",
+  "scripts": {
+    "test": "node ./test/index.js"
+  },
+  "keywords": [
+    "Promise/A+",
+    "js",
+    "Promise"
+  ],
+  "author": "zRain",
+  "license": "MIT",
+  "devDependencies": {
+    "promises-aplus-tests": "^2.1.2"
+  }
+}
